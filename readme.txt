@@ -7,3 +7,4 @@ add by feture branch code.
 add by new dev.
 test by no off
 test stash modify
+my file has modified,but i am not submit.then i must fix a bug,so I am create new branch.
